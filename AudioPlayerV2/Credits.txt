@@ -1,0 +1,16 @@
+﻿Icons for this project has been downloaded from:
+https://www.iconfinder.com
+
+Icons designed by:
+
+Aha-Soft => https://www.iconfinder.com/aha-soft
+
+ionicons => http://ionicons.com/
+
+icons4android.com => https://www.iconfinder.com/icons4android.com
+
+Visual Pharm => https://icons8.com/
+
+Paomedia => https://www.iconfinder.com/paomedia
+
+Software Written by David Bucko / Moment93
